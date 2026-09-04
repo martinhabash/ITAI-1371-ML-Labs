@@ -4,12 +4,19 @@ L03
 
 1.	INTRODUCTION
 
-2.	DESCRIPTION OF EXPIRIENCE/TOPIC
+2.	DESCRIPTION OF EXPIRIENCE/TOPIC : Zayaan: This assignment introduced and helped me understand the three main types of machine learning: supervised, unsupervised, and reinforcement learning. 
+It helped give a more cleared view that each type is used for different kinds of problems and data. 
+Wine Classification project was a great hands-on experience with supervised learning, where a model we train, uses labeled data to learn how to classify different types of wine. 
+I also learned that different machine learning models can produce different results, so comparing their performance is important when deciding which model works best.
 
 3.	PERSONAL REFLECTION
 
 
-4.	DISCUSSION OF IMPROVEMENT AND LEARNING
+4.	DISCUSSION OF IMPROVEMENT AND LEARNING : Zayaan: I got to practice working on a dataset, where I used machine learning algorithms for classification, and compared their results.
+One challenge I faced was trying to understand why some models worked better than others, and what could be done to make improvements, which made me realize & understand that machine learning is all about experimenting with various algorithms. 
+At first, understanding the differences between supervised, unsupervised, and reinforcement learning was a little confusing at first
+but going more through the lab and working through the Wine Classification project made the differences easier to understand. I also noticed that choosing
+a model is not just about getting an answer, but looking at how well the model performs. 
 
 
 5.	CONCLUSION
